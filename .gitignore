@@ -1,0 +1,21 @@
+# AWS credentials - NEVER commit these
+.env
+*.pem
+credentials
+aws_credentials.txt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# Submission zip (too large, not needed in repo)
+*.zip
+
+# Temp
+*.tmp
