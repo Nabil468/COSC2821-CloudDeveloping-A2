@@ -1,0 +1,51 @@
+[
+  {
+    "course_name": {"S": "Cloud Developing"},
+    "student_id": {"S": "s4088057"},
+    "student_email": {"S": "s4088057@cloudguru.edu.au"},
+    "student_name": {"S": "Nabil Nahiyan Srijan B"},
+    "course_year": {"S": "2025"}
+  },
+  {
+    "course_name": {"S": "Cloud Developing"},
+    "student_id": {"S": "s4088058"},
+    "student_email": {"S": "s4088058@cloudguru.edu.au"},
+    "student_name": {"S": "Nabil Nahiyan Srijan C"},
+    "course_year": {"S": "2024"}
+  },
+  {
+    "course_name": {"S": "Cloud Developing"},
+    "student_id": {"S": "s4088059"},
+    "student_email": {"S": "s4088059@cloudguru.edu.au"},
+    "student_name": {"S": "Nabil Nahiyan Srijan D"},
+    "course_year": {"S": "2024"}
+  },
+  {
+    "course_name": {"S": "Cloud Foundations"},
+    "student_id": {"S": "s4088056"},
+    "student_email": {"S": "s4088056@cloudguru.edu.au"},
+    "student_name": {"S": "Nabil Nahiyan Srijan A"},
+    "course_year": {"S": "2023"}
+  },
+  {
+    "course_name": {"S": "Cloud Foundations"},
+    "student_id": {"S": "s4088057"},
+    "student_email": {"S": "s4088057@cloudguru.edu.au"},
+    "student_name": {"S": "Nabil Nahiyan Srijan B"},
+    "course_year": {"S": "2023"}
+  },
+  {
+    "course_name": {"S": "Cloud Foundations"},
+    "student_id": {"S": "s4088058"},
+    "student_email": {"S": "s4088058@cloudguru.edu.au"},
+    "student_name": {"S": "Nabil Nahiyan Srijan C"},
+    "course_year": {"S": "2022"}
+  },
+  {
+    "course_name": {"S": "Cloud Foundations"},
+    "student_id": {"S": "s4088059"},
+    "student_email": {"S": "s4088059@cloudguru.edu.au"},
+    "student_name": {"S": "Nabil Nahiyan Srijan D"},
+    "course_year": {"S": "2022"}
+  }
+]
